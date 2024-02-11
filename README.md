@@ -91,7 +91,6 @@ For detailed information on how to use our App :-
 
 
 
-![Screenshot (1962)](https://github.com/shikhu51197/Socket.io-ChatApp/assets/107506646/6cadc0e7-0065-4c6b-ba7e-c0ecf3a1e6c8)
 
 ## Users Chat  ❤️‍🔥
 
